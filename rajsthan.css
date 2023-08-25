@@ -1,0 +1,140 @@
+
+
+
+.PINK {
+
+    color: rgb(245, 245, 238);
+    /* background-color: rgb(246, 224, 235); */
+}
+
+h3 {
+   
+    /* <img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/450406/settings_images/9cGwDZRRi4lfOuGD2ogo_preview-full-FullyRaw-logo-with-emblishment.png" kjb-settings-id="sections_header_settings_logo"> */
+    /* /html/body/div[1]/div/div/div[1]/div/div/a/img */
+    padding: 20px;
+    font-family: 'DynaPuff', cursive;
+    /* font-family: 'Sedgwick Ave Display', cursive; */
+    /* font-family: 'Anton', sans-serif; */
+    color: rgb(0, 0, 0);
+    font-size: xx-large;
+    background-color: rgb(179, 177, 177);
+    height: 150px;
+    border: 4px;
+    border-bottom: 4px;
+    border-color: black;
+    /* background-image: url(https://images.rawpixel.com/image_600/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcC0zNTgtamlyLTUxMDktamlyLmpwZw.jpg); */
+    background-image: url(https://images.rawpixel.com/image_600/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcC0zNTgtamlyLTUxMjgtamlyLmpwZw.jpg
+);
+
+}
+
+#rr {
+    
+    margin: 10px;
+    color:rgb(223 232 237);
+    /* background-color: rgb(246, 224, 235); */
+    font-size: 15px;
+    /* font-family: 'Sedgwick Ave Display', cursive; */
+    font-family: 'DynaPuff', cursive;
+    box-sizing: border-box;
+}
+
+p {
+    font-size: large;
+    font-family: 'Chivo Mono', monospace;
+    font-weight: bold;
+    /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+
+
+    /* border: 2px solid royalblue; */
+}
+
+.bgyellow {
+    font-size: large;
+    /* background-color: rgb(229, 238, 240); */
+}
+
+span {
+
+    font-weight: bold;
+}
+
+div {
+   
+
+    background-color: rgb(249, 213, 213);
+    height: 500px;
+    background-image: url(https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcC0zNTgtamlyLTUwNzItamlyLmpwZw.jpg);
+}
+
+#ra {
+
+    padding:5px;
+    background-position: center center;
+    font-family: 'Sedgwick Ave Display', cursive;
+    background-color: rgb(205, 203, 203);
+    height: 250px;
+    width: 300px;
+    border-width: 4px;
+    border-left-color: rgb(252, 246, 246);
+    border-top: rgb(244, 237, 237);
+    border-right: rgb(255, 249, 249);
+    border-bottom: rgb(246, 242, 242);
+    border-style: solid;
+    box-shadow: 10px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    background-image: url(
+        https://th.bing.com/th/id/OIP.6qu5bhqzZMF6ESXObnOaAQHaEj?w=240&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7
+        
+        
+    );
+   
+
+}
+/* #head{
+    height: 16px;
+    background-image: url(
+        https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/534228/settings_images/fVyQ1jTSSgCUNyLdfA8M_GegKdh3wTfCAdMJFErwJ_FR_dot-border.png);
+} */
+ /* body {
+            font-family: 'Ubuntu', sans-serif;
+        } */
+
+        /* .container {
+            width: 900px;
+            border: 3px solid purple;
+            background-color: rgb(250, 226, 205);
+            margin: 33px auto;
+        }
+
+        .item {
+            border: 3px solid grey;
+            margin: 12px 3px;
+            padding: 12px 3px;
+            background: rgb(248, 238, 238);
+        }
+
+        #fruit {
+            float: right;
+            width: 48%;
+        }
+
+        #computer {
+            float: left;
+            width: 48%;
+        }
+
+        #stationary {
+            /* float: left; */
+            /* clear: both;
+            clear: left;
+            width: 100%;
+        }
+        #glasses {
+            clear: both;
+            clear: left;
+            width: 100%;
+
+        } */ 
+        
